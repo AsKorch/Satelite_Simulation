@@ -1,0 +1,3 @@
+method;completedPct_mean;completedPct_std;messages_mean;messages_std;reassignmentDelay_mean;recoverySuccessPct_mean
+central;91.9;3.04181386329725;301.55;1.98613615900453;4;6.25
+hybrid;94.8;4.34801830238728;398;4.98418551652704;2;50
